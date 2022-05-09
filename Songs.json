@@ -1,0 +1,36 @@
+{
+	"Songs": [
+		{
+		  	"songTitle": "Stay a Minute",
+			"songArtist": "Pilo",
+			"songImg": "https://github.com/bdo99/JSONProjectIT315/blob/main/Stay_A_Minute.jpg?raw=true",
+			"songYoutube": "https://www.youtube.com/watch?v=mJVJK2uDIbI"
+			
+		},
+		{
+			"songTitle": "Light Switch",
+			"songArtist": "Charlie Puth",
+			"songImg": "https://github.com/bdo99/JSONProjectIT315/blob/main/Light_Switch.jpg?raw=true",
+			"songYoutube": "https://www.youtube.com/watch?v=WFsAon_TWPQ"
+		},
+		{
+			"songTitle": "Love Me",
+			"songArtist": "Jonny Koch, Annie Sollange",
+			"songImg": "https://github.com/bdo99/JSONProjectIT315/blob/main/Love_Me.jpg?raw=true",
+			"songYoutube": "https://www.youtube.com/watch?v=EVoN5LnipXw"
+		},
+		{
+			"songTitle": "LMLY",
+			"songArtist": "Jackson Wang",
+			"songImg": "https://github.com/bdo99/JSONProjectIT315/blob/main/LMLY.jpg?raw=true",
+			"songYoutube": "https://www.youtube.com/watch?v=QIMihDOXMpY"
+		},
+		{
+			"songTitle": "The Feels",
+			"songArtist": "TWICE",
+			"songImg": "https://github.com/bdo99/JSONProjectIT315/blob/main/The_Feels.jpg?raw=true",
+			"songYoutube": "https://www.youtube.com/watch?v=f5_wn8mexmM"
+		}
+	],
+	"Status": "Ok"
+}
